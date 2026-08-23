@@ -44,11 +44,26 @@ XXD Panel 024 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 - **源图商业配色：** 浅色窗口＋真实主体色＋极少中性色文字；拒绝荧光、高饱和大色块、脏灰、厚重暗底和全局滤镜。
 - **高级编辑文字：** 一个简短标题与少量副标题、地点、状态词或微注释，沿窗口、穿越方向或留白建立秩序。
 
-## 样张 · 即将补充
+## 样张 · 来自 X
 
-项目已预留 [`assets/examples/`](assets/examples/) 样张目录。只有经项目作者确认、确实使用 024 完成的作品才会加入；在此之前不借用其他风格的推文或图片作为占位。
+> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090415726813393008) · 2026-08-20<br>
+> GPT2 x 几何窗口 x 穿越 x 美学提示词 x VOL.24<br>
+> 原推文使用未补零的 VOL.24；按系列编号归入 XXD Panel 024。
 
-未来样张只用于展示 024 对不同题材的适应力，不会把样张主体、隐喻、配色、文案或画幅变成生成参考或默认值。
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090415726813393008"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 024 样张 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090415726813393008"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 024 样张 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090415726813393008"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 024 样张 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090415726813393008"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 024 样张 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090415726813393008">查看原推文与完整提示词 →</a></p>
+
+这些样张用于展示 024 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
 
 ## 四种输出共享同一种几何情绪窗口逻辑
 

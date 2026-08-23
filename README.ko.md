@@ -44,11 +44,26 @@ XXD Panel 024는 Codex와 호환 에이전트를 위한 이미지 생성 Skill�
 - **원본 기반 상업 색:** 옅은 창＋실제 주제색＋소량 중성 문자. 형광, 탁한 회색, 어두운 바탕, 전체 필터는 제외합니다.
 - **프리미엄 편집 문자:** 짧은 제목과 소수의 보조 정보를 창, 통과 방향, 여백에 통합합니다.
 
-## 예시 · 곧 추가됩니다
+## 예시 · X에서
 
-저장소에는 향후 예시를 위한 [`assets/examples/`](assets/examples/) 폴더가 마련되어 있습니다. 프로젝트 작성자가 확인한 024 완성작만 추가하며, 그전에는 다른 스타일의 게시물이나 이미지를 자리표시자로 쓰지 않습니다.
+> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090415726813393008) · 2026-08-20<br>
+> GPT2 x 几何窗口 x 穿越 x 美学提示词 x VOL.24<br>
+> 원문은 앞자리 0이 없는 VOL.24 표기를 사용하며 시리즈에서는 XXD Panel 024에 해당합니다.
 
-향후 예시는 024의 적용 범위만 보여 줍니다. 예시의 주제, 은유, 팔레트, 문구, 화면 비율은 생성 참조나 기본값이 되지 않습니다.
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090415726813393008"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 024 예시 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090415726813393008"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 024 예시 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090415726813393008"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 024 예시 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090415726813393008"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 024 예시 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090415726813393008">원문 게시물과 전체 프롬프트 보기 →</a></p>
+
+이 예시는 024의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
 
 ## 네 가지 출력, 하나의 기하 감정 창 논리
 
