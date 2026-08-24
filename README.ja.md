@@ -22,6 +22,27 @@ XXD Panel 024 は、Codex と互換 Agent のための画像生成 Skill です�
 
 主体は写真または精緻な写実感を保ち、窓へ入り、一度だけ明確に局所越境、破枠、伸長、通過します。元写真由来の淡色窓、本来の主体色、少量の中性色文字、白・淡灰・極淡暖色の地、大きな東洋の余白、最大一層のごく薄い文化／線形補助で高級ブランド広告の質感を作ります。
 
+## 作例 · X より
+
+> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090415726813393008) · 2026-08-20<br>
+> GPT2 x 几何窗口 x 穿越 x 美学提示词 x VOL.24<br>
+> 元の投稿はゼロ埋めなしの VOL.24 表記で、シリーズ上は XXD Panel 024 に属します。
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090415726813393008"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 024 作例 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090415726813393008"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 024 作例 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090415726813393008"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 024 作例 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090415726813393008"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 024 作例 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090415726813393008">元の投稿と完全なプロンプトを見る →</a></p>
+
+これらの作例は 024 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
+
 ## なぜ 024 が必要なのか
 
 一般的な「黒い面＋線画」は、主体を矩形に貼っただけのポスターテンプレートへ崩れがちです。境界に出来事がなく、線は滑らかすぎ、主体、黒い領域、文字が互いに関係しません。
@@ -43,27 +64,6 @@ XXD Panel 024 は、Codex と互換 Agent のための画像生成 Skill です�
 - **補助は最大一層：** 極薄の文化模様、地形線、水波、光輪郭、抽象線だけを従属させます。
 - **元写真由来の商業色：** 淡色窓＋本来の主体色＋少量の中性色文字。蛍光、濁灰、暗底、全体フィルターは不可です。
 - **高級編集文字：** 短い題と少数の補助情報を、窓、通過方向、余白へ組み込みます。
-
-## 作例 · X より
-
-> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090415726813393008) · 2026-08-20<br>
-> GPT2 x 几何窗口 x 穿越 x 美学提示词 x VOL.24<br>
-> 元の投稿はゼロ埋めなしの VOL.24 表記で、シリーズ上は XXD Panel 024 に属します。
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090415726813393008"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 024 作例 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090415726813393008"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 024 作例 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090415726813393008"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 024 作例 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090415726813393008"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 024 作例 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090415726813393008">元の投稿と完全なプロンプトを見る →</a></p>
-
-これらの作例は 024 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
 
 ## 原文プロンプトを唯一の美的基準にする
 

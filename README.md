@@ -22,6 +22,27 @@ XXD Panel 024 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 
 主体保持真实摄影感或精致写实质感，进入窗口并发生一次明确的局部越界、破框、伸出或穿过。窗口颜色从源图柔化而来，主体保留真实原生色；白、浅灰或极浅暖色背景与大面积东方留白，再配至多一层若隐若现的文化纹样或线性辅助，形成高端品牌广告与美学杂志气质。
 
+## 样张 · 来自 X
+
+> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090415726813393008) · 2026-08-20<br>
+> GPT2 x 几何窗口 x 穿越 x 美学提示词 x VOL.24<br>
+> 原推文使用未补零的 VOL.24；按系列编号归入 XXD Panel 024。
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090415726813393008"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 024 样张 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090415726813393008"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 024 样张 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090415726813393008"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 024 样张 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090415726813393008"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 024 样张 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090415726813393008">查看原推文与完整提示词 →</a></p>
+
+这些样张用于展示 024 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
+
 ## 为什么需要 024
 
 普通“人物／物件穿色块”很容易退化成完整抠图贴在装饰条上，色块方向与动作无关，主体材质被过度磨皮，留白又被文化纹样和商业文案填满。
@@ -43,27 +64,6 @@ XXD Panel 024 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 - **至多一层辅助：** 极淡文化纹样、地形线、水波线、光影轮廓或抽象线性符号只能若隐若现，不能形成第二主体。
 - **源图商业配色：** 浅色窗口＋真实主体色＋极少中性色文字；拒绝荧光、高饱和大色块、脏灰、厚重暗底和全局滤镜。
 - **高级编辑文字：** 一个简短标题与少量副标题、地点、状态词或微注释，沿窗口、穿越方向或留白建立秩序。
-
-## 样张 · 来自 X
-
-> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090415726813393008) · 2026-08-20<br>
-> GPT2 x 几何窗口 x 穿越 x 美学提示词 x VOL.24<br>
-> 原推文使用未补零的 VOL.24；按系列编号归入 XXD Panel 024。
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090415726813393008"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 024 样张 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090415726813393008"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 024 样张 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090415726813393008"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 024 样张 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090415726813393008"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 024 样张 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090415726813393008">查看原推文与完整提示词 →</a></p>
-
-这些样张用于展示 024 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
 
 ## 原始提示词优先，而不是二次导演
 

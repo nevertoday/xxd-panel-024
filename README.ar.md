@@ -24,6 +24,27 @@ XXD Panel 024 مهارة لتوليد الصور مخصّصة لـ Codex وال�
 
 يحافظ الموضوع على حس فوتوغرافي أو واقعية مصقولة، ويدخل النافذة ليعبر أو يكسر الإطار أو يمتد أو يمر موضعياً مرة واحدة. تصنع نافذة شاحبة من المصدر ولون الموضوع الحقيقي ونصوص محايدة قليلة وأرضية بيضاء أو رمادية فاتحة أو دافئة شديدة الشحوب وفراغ شرقي واسع وطبقة دعم خافتة واحدة إحساس إعلان علامة فاخرة ومجلة جمالية.
 
+## النماذج · من X
+
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090415726813393008) · 2026-08-20<br>
+> GPT2 x 几何窗口 x 穿越 x 美学提示词 x VOL.24<br>
+> يستخدم المنشور الأصلي الصيغة VOL.24 من دون صفر بادئ؛ وهو ضمن السلسلة XXD Panel 024.
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090415726813393008"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 024 نموذج 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090415726813393008"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 024 نموذج 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090415726813393008"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 024 نموذج 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090415726813393008"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 024 نموذج 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090415726813393008">عرض المنشور الأصلي والتوجيه كاملاً ←</a></p>
+
+تعرض هذه النماذج الدافع الجمالي للإصدار 024 فقط؛ ولا تصبح موضوعاتها أو تكوينها أو ألوانها أو نصوصها أو نسبة اللوحة السابقة مراجع للتوليد أو إعدادات افتراضية حالية.
+
 ## لماذا توجد 024؟
 
 يتحوّل «الموضوع داخل كتلة لونية» بسهولة إلى قصاصة كاملة ملصقة فوق شريط زخرفي، باتجاه لا علاقة له بالفعل ومادة مصقولة أكثر من اللازم وفراغ تملؤه الزخارف والنصوص البيعية.
@@ -45,27 +66,6 @@ XXD Panel 024 مهارة لتوليد الصور مخصّصة لـ Codex وال�
 - **طبقة دعم واحدة كحد أقصى:** نمط ثقافي أو خط طبوغرافي أو موجة أو محيط ضوء أو رمز خطي بالغ الخفوت.
 - **لون تجاري من المصدر:** نافذة شاحبة ولون موضوع حقيقي ونص محايد قليل؛ بلا فلور أو رمادي متسخ أو أرضية داكنة أو مرشح عام.
 - **نص تحريري فاخر:** عنوان قصير ومعلومات قليلة تدخل علاقة النافذة والعبور والفراغ.
-
-## النماذج · من X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090415726813393008) · 2026-08-20<br>
-> GPT2 x 几何窗口 x 穿越 x 美学提示词 x VOL.24<br>
-> يستخدم المنشور الأصلي الصيغة VOL.24 من دون صفر بادئ؛ وهو ضمن السلسلة XXD Panel 024.
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090415726813393008"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 024 نموذج 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090415726813393008"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 024 نموذج 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090415726813393008"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 024 نموذج 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090415726813393008"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 024 نموذج 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090415726813393008">عرض المنشور الأصلي والتوجيه كاملاً ←</a></p>
-
-تعرض هذه النماذج الدافع الجمالي للإصدار 024 فقط؛ ولا تصبح موضوعاتها أو تكوينها أو ألوانها أو نصوصها أو نسبة اللوحة السابقة مراجع للتوليد أو إعدادات افتراضية حالية.
 
 ## الموجّه الأصلي هو المرجع الجمالي الوحيد
 

@@ -22,6 +22,27 @@ XXD Panel 024는 Codex와 호환 에이전트를 위한 이미지 생성 Skill�
 
 주제는 사진적 또는 정교한 사실성을 유지하고 창 안으로 들어가 한 번의 분명한 국소 돌파, 프레임 파괴, 연장 또는 통과를 만듭니다. 원본에서 가져온 옅은 창, 실제 주제색, 소량의 중성 문자, 흰색／옅은 회색／매우 옅은 온색 바탕, 넓은 동양적 여백과 최대 한 겹의 희미한 문화／선형 보조층으로 프리미엄 광고 감각을 만듭니다.
 
+## 예시 · X에서
+
+> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090415726813393008) · 2026-08-20<br>
+> GPT2 x 几何窗口 x 穿越 x 美学提示词 x VOL.24<br>
+> 원문은 앞자리 0이 없는 VOL.24 표기를 사용하며 시리즈에서는 XXD Panel 024에 해당합니다.
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090415726813393008"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 024 예시 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090415726813393008"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 024 예시 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090415726813393008"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 024 예시 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090415726813393008"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 024 예시 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090415726813393008">원문 게시물과 전체 프롬프트 보기 →</a></p>
+
+이 예시는 024의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
+
 ## 왜 024이 필요한가요
 
 일반적인 ‘검정 면＋선화’는 주제를 직사각형 위에 붙인 포스터 템플릿으로 쉽게 무너집니다. 경계에는 사건이 없고 선은 너무 매끈하며 주제, 검정 영역과 문자가 서로 작동하지 않습니다.
@@ -43,27 +64,6 @@ XXD Panel 024는 Codex와 호환 에이전트를 위한 이미지 생성 Skill�
 - **보조층 최대 하나:** 매우 옅은 문화 무늬, 지형선, 물결, 빛 윤곽 또는 추상 선만 종속시킵니다.
 - **원본 기반 상업 색:** 옅은 창＋실제 주제색＋소량 중성 문자. 형광, 탁한 회색, 어두운 바탕, 전체 필터는 제외합니다.
 - **프리미엄 편집 문자:** 짧은 제목과 소수의 보조 정보를 창, 통과 방향, 여백에 통합합니다.
-
-## 예시 · X에서
-
-> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090415726813393008) · 2026-08-20<br>
-> GPT2 x 几何窗口 x 穿越 x 美学提示词 x VOL.24<br>
-> 원문은 앞자리 0이 없는 VOL.24 표기를 사용하며 시리즈에서는 XXD Panel 024에 해당합니다.
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090415726813393008"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 024 예시 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090415726813393008"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 024 예시 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090415726813393008"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 024 예시 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090415726813393008"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 024 예시 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090415726813393008">원문 게시물과 전체 프롬프트 보기 →</a></p>
-
-이 예시는 024의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
 
 ## 원본 프롬프트가 유일한 미적 기준입니다
 
