@@ -43,7 +43,18 @@ The photographic or finely realistic subject enters that window and performs one
 
 These samples demonstrate the 024 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
-## Why it exists
+<!-- xxd-panel-benefit:start -->
+## Quick fit check: is XXD Panel 024 right for you?
+
+| What you need to know | What this style gives you |
+|---|---|
+| **What you will get** | Let a real source-bound subject pass through one pale geometric emotion window |
+| **Recognizable signature** | PHOTOGRAPHIC SUBJECT · NARROW PALE WINDOW · SOURCE-ADAPTIVE DIRECTION · EASTERN WHITESPACE · PREMIUM EDITORIAL TYPE |
+| **How it respects your source** | Recognizable identity, relationships, structure, and supplied facts stay anchored. Styling reorganizes the visual language instead of replacing your content with an unrelated template. |
+| **Where you can use it** | Create top-bottom, left-right, design-only, and four-device wallpaper outputs in multiple ratios or exact sizes. Delivery changes; the Panel's style identity does not get diluted. |
+<!-- xxd-panel-benefit:end -->
+
+## How it turns your source into a distinctive result
 
 A “subject through a colour block” easily collapses into a complete cut-out pasted over a decorative stripe, with a direction unrelated to action, over-smoothed material, and whitespace filled by pattern and sales copy.
 
@@ -55,7 +66,7 @@ lock source identity / material / true colour / principal action → choose a ho
 
 If an unrelated photograph could replace the source without materially changing window direction, subject crossing, material, true colour, focal balance, support layer, or copy, the result is not 024.
 
-## The 024 visual contract
+## What makes the finished style recognizable
 
 - **One narrow pale window:** horizontal, vertical, or diagonal orientation follows source weight, action, and contour; reject multiple blocks, huge boards, and fixed-direction templates.
 - **Real subject crossing:** preserve at least three source-specific identity, material, colour, pose, action, and relation cues; the subject enters and performs one clear local crossing.
