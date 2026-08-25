@@ -43,6 +43,12 @@ XXD Panel 024 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 
 主体保持真实摄影感或精致写实质感，进入窗口并发生一次明确的局部越界、破框、伸出或穿过。窗口颜色从源图柔化而来，主体保留真实原生色；白、浅灰或极浅暖色背景与大面积东方留白，再配至多一层若隐若现的文化纹样或线性辅助，形成高端品牌广告与美学杂志气质。
 
+## 原始提示词 · 五种语言
+
+[打开统一的多语言目录](references/original-prompt/)： [简体中文原文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
+
+简体中文文件保存小小东提供的逐字原文，并且是运行时唯一审美权威；其他四个版本是忠实的阅读译文，方便国际读者理解和转发，不会反过来改写生图提示词。
+
 <!-- xxd-panel-benefit:start -->
 ## 快速判断：XXD Panel 024 适合你吗？
 
@@ -78,7 +84,7 @@ XXD Panel 024 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 
 ## 原始提示词优先，而不是二次导演
 
-`references/024-source.md` 是本项目唯一的创作与审美权威。Skill 不再额外总结或扩写它，也不会统一规划颜色、色板、美学动机、标题或微文案。原始提示词要求怎样处理颜色、材料、构图、留白与文字，GPT Image 2 就按那套逻辑执行。
+`references/original-prompt/zh-CN.md` 是本项目唯一的创作与审美权威。Skill 不再额外总结或扩写它，也不会统一规划颜色、色板、美学动机、标题或微文案。原始提示词要求怎样处理颜色、材料、构图、留白与文字，GPT Image 2 就按那套逻辑执行。
 
 模式与尺寸会完整替换原始提示词旧有的 3:4 上下交付容器，但不改写它的转译美学。每张成品只向 GPT Image 2 发送一个已选模式的最终契约，不再把四种模式放进同一个通用模板让模型自行猜测。
 
@@ -225,7 +231,7 @@ $xxd-panel-024
 - [Skill 工作流](SKILL.md)
 - [中文运行适配器](references/xxd-panel-024-prompt.zh-CN.md)
 - [英文运行适配器](references/xxd-panel-024-prompt.en.md)
-- [原始风格提示词](references/024-source.md)
+- [原始风格提示词](references/original-prompt/zh-CN.md)
 
 ## 边界与信任
 
