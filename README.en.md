@@ -16,17 +16,7 @@
 
 </div>
 
-> PHOTOGRAPHIC SUBJECT · NARROW PALE WINDOW · SOURCE-ADAPTIVE DIRECTION · EASTERN WHITESPACE · PREMIUM EDITORIAL TYPE
-
-XXD Panel 024 is an image-generation Skill for Codex and compatible agents. It locks identity, contour, pose, action, function, material, and true colour, then chooses one horizontal, vertical, or diagonal narrow pale low-saturation geometric window according to subject weight, action direction, contour flow, and page rhythm.
-
-The photographic or finely realistic subject enters that window and performs one clear local crossing, extension, frame break, or passage. A source-derived pale block, true subject colour, sparse neutral type, white/pale-grey/pale-warm ground, generous Eastern whitespace, and at most one faint cultural or linear support layer create a premium brand-advertising and magazine finish.
-
 ## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090415726813393008) · 2026-08-20<br>
-> GPT2 x 几何窗口 x 穿越 x 美学提示词 x VOL.24<br>
-> The original post uses the unpadded label VOL.24; it belongs to XXD Panel 024 in the series.
 
 <table>
   <tr>
@@ -39,9 +29,19 @@ The photographic or finely realistic subject enters that window and performs one
   </tr>
 </table>
 
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090415726813393008) · 2026-08-20<br>
+> GPT2 x 几何窗口 x 穿越 x 美学提示词 x VOL.24<br>
+> The original post uses the unpadded label VOL.24; it belongs to XXD Panel 024 in the series.
+
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090415726813393008">View the original post and full prompt →</a></p>
 
 These samples demonstrate the 024 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
+> PHOTOGRAPHIC SUBJECT · NARROW PALE WINDOW · SOURCE-ADAPTIVE DIRECTION · EASTERN WHITESPACE · PREMIUM EDITORIAL TYPE
+
+XXD Panel 024 is an image-generation Skill for Codex and compatible agents. It locks identity, contour, pose, action, function, material, and true colour, then chooses one horizontal, vertical, or diagonal narrow pale low-saturation geometric window according to subject weight, action direction, contour flow, and page rhythm.
+
+The photographic or finely realistic subject enters that window and performs one clear local crossing, extension, frame break, or passage. A source-derived pale block, true subject colour, sparse neutral type, white/pale-grey/pale-warm ground, generous Eastern whitespace, and at most one faint cultural or linear support layer create a premium brand-advertising and magazine finish.
 
 <!-- xxd-panel-benefit:start -->
 ## Quick fit check: is XXD Panel 024 right for you?
