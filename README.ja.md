@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 024
+# 🦁 XXD Panel 024｜感情の窓
 
 ### 現実の主体を、淡い幾何学的な感情の窓へ通す
 

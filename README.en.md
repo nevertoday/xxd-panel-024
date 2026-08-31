@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 024
+# 🦁 XXD Panel 024｜Mood Window
 
 ### Let a real source-bound subject pass through one pale geometric emotion window
 

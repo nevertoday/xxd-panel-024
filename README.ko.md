@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 024
+# 🦁 XXD Panel 024｜감정의 창
 
 ### 현실의 주제를 옅은 기하학적 감정 창으로 통과시키기
 

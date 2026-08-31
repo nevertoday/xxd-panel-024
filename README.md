@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 024
+# 🦁 XXD Panel 024｜情绪窗口
 
 ### 让真实物象穿越一扇浅色几何情绪窗口
 
