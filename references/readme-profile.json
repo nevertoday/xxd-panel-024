@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 024｜Mood Window: turns a photo into a minimal commercial-editorial poster built on one idea, a real subject passing through a geometric mood window: a narrow, restrained, low-saturation colour block — horizontal, vertical or diagonal, chosen by the subject's weight and direction — that the subject, still rendered photographically or in refined realism, enters and partly breaks out of, on a white or pale ground with wide whitespace and faint patterns or water lines, in a pale palette from the photo (misty blue, beige, warm grey, pale gold), with a short title, subtitle, place or state words set horizontally or vertically in small, airy type. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-024 or asks for geometric colour-window posters, luxury editorial key visuals or real-object-through-frame designs from a photo.",
+  "short_description": "情绪窗口：让真实的物象穿过一扇窄长的浅色几何色块，像高端品牌的极简海报",
+  "zh-CN": {
+    "name": "情绪窗口",
+    "tagline": "让照片里真实的物象穿过一扇窄长的浅色几何窗口，做成一张极简的高级商业海报。",
+    "look": "画面里有一块窄长、克制、低饱和的几何色块，方向不固定，横、竖或斜，由主体的重心和走势决定。主体保持真实摄影感或精致写实，进入色块之中，又有一部分越界、伸出或穿过边界，像自然长出来。背景是白色、浅灰或极浅暖色，可以有若隐若现的文化纹样、地形线、水波线或光影轮廓，整体只有一个焦点和大片留白。色块颜色从照片里取，柔化成雾蓝、浅青、米白、淡粉、暖灰或浅金。文字是一个短标题加少量副标题、地点或状态词，横排或竖排，小字号、细字重、字距舒展。",
+    "traits": [
+      "摄影主体",
+      "窄长窗口",
+      "自适应方向",
+      "商业编辑",
+      "东方留白"
+    ],
+    "good": [
+      "单一、有质感的物件：一枝花、一只瓷瓶、一瓶香水、一杯茶",
+      "姿态舒展的人或动物：伸展的舞者、一只白鹭、一匹马",
+      "想做成品牌主视觉、节气海报、地产或美学杂志版面的照片"
+    ],
+    "poor": [
+      "想要手绘、插画或卡通效果的需求，这里主体保持真实",
+      "人多、物多、焦点分散的照片",
+      "想要浓烈撞色或热闹活泼氛围的设计"
+    ]
+  },
+  "en": {
+    "name": "Mood Window",
+    "tagline": "Lets a real subject from your photo pass through one narrow, pale geometric window, as a minimal high-end commercial poster.",
+    "look": "The picture holds one narrow, restrained, low-saturation geometric colour block whose direction is not fixed: horizontal, vertical or diagonal, decided by the subject's weight and direction. The subject stays photographic or finely realistic, sits inside the block and partly breaks out, reaches past or passes through its edge, as if growing there naturally. The ground is white, pale grey or a very light warm tone, sometimes with faint cultural patterns, contour lines, water lines or traces of light, with a single focus and wide whitespace. The block's colour comes from the photo, softened to misty blue, pale teal, beige, light pink, warm grey or pale gold. Text is a short title with a little subtitle, place or state words, horizontal or vertical, in small, light, widely spaced type.",
+    "traits": [
+      "Photographic subject",
+      "Narrow window",
+      "Adaptive direction",
+      "Commercial editorial",
+      "Eastern whitespace"
+    ],
+    "good": [
+      "A single object with texture: a flower stem, a porcelain vase, a perfume bottle, a cup of tea",
+      "People or animals in an open pose: a dancer stretching, an egret, a horse",
+      "Photos you want as a brand key visual, seasonal poster, property ad or design-magazine spread"
+    ],
+    "poor": [
+      "Requests for a hand-drawn, illustrated or cartoon look, since the subject stays real",
+      "Photos crowded with people or objects and no single focus",
+      "Designs that want loud clashing colour or a busy, playful mood"
+    ]
+  },
+  "ja": {
+    "name": "感情の窓",
+    "tagline": "写真の中の本物の被写体を、細長い淡い色の幾何学の窓に通し、ミニマルな上質の広告ポスターにします。",
+    "look": "画面には細長く控えめで低彩度の幾何学的な色面が一つあり、向きは決まっていません。横、縦、斜めのどれにするかは、主役の重心と流れで決めます。主役は写真らしさや精緻な写実を保ったまま色面の中に入り、一部は境界を越え、はみ出し、突き抜けて、自然に生えてきたように見えます。地は白、淡いグレー、ごく淡い暖色で、かすかな文化的な文様、等高線、水の波線、光の輪郭が入ることもあり、焦点は一つ、余白は大きくとります。色面の色は写真から取り、霧のブルー、淡い青緑、ベージュ、淡いピンク、ウォームグレー、淡い金にやわらげます。文字は短いタイトルに少しのサブタイトル、地名、状態語を添え、横組みか縦組みで、小さく細く字間を広くとります。",
+    "traits": [
+      "写真の主役",
+      "細長い窓",
+      "向きは自在",
+      "広告と編集",
+      "東洋の余白"
+    ],
+    "good": [
+      "質感のある一つのモノ：一枝の花、磁器の花瓶、香水瓶、一杯のお茶",
+      "のびやかなポーズの人や動物：体を伸ばすダンサー、白鷺、馬",
+      "ブランドのキービジュアル、季節のポスター、不動産広告、デザイン誌の誌面にしたい写真"
+    ],
+    "poor": [
+      "手描き、イラスト、マンガ風を求める場合（ここでは主役は写真のままです）",
+      "人やモノが多く焦点が散らばった写真",
+      "強い色のぶつかり合いや、にぎやかで元気な雰囲気を求めるデザイン"
+    ]
+  },
+  "ko": {
+    "name": "감정의 창",
+    "tagline": "사진 속 실제 대상이 가늘고 긴 연한 기하학 창을 통과하게 하여, 미니멀한 고급 광고 포스터로 만듭니다.",
+    "look": "화면에는 가늘고 길며 절제된 저채도 기하학 색면 하나가 있고, 방향은 정해져 있지 않습니다. 가로, 세로, 사선 중 무엇으로 할지는 주인공의 무게중심과 흐름이 정합니다. 주인공은 사진다운 느낌이나 정교한 사실감을 유지한 채 색면 안으로 들어가고, 일부는 경계를 넘거나 뻗어 나오거나 뚫고 지나가 자연스럽게 자라난 듯 보입니다. 바탕은 흰색, 연회색, 아주 옅은 따뜻한 색이며, 희미한 전통 문양, 등고선, 물결선, 빛의 윤곽이 들어가기도 하고, 초점은 하나, 여백은 넓습니다. 색면의 색은 사진에서 가져와 안개 파랑, 연한 청록, 베이지, 연분홍, 웜 그레이, 연한 금색으로 부드럽게 만듭니다. 글자는 짧은 제목에 약간의 부제, 장소, 상태어를 더하며, 가로나 세로로 작고 가늘게, 자간을 넉넉히 둡니다.",
+    "traits": [
+      "사진 주인공",
+      "가늘고 긴 창",
+      "방향 자유",
+      "상업 편집",
+      "동양적 여백"
+    ],
+    "good": [
+      "질감 있는 단일 사물: 꽃 한 가지, 도자기 꽃병, 향수병, 차 한 잔",
+      "자세가 시원한 사람이나 동물: 몸을 뻗은 무용수, 백로, 말",
+      "브랜드 키 비주얼, 절기 포스터, 부동산 광고, 디자인 잡지 지면으로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "손그림, 일러스트, 만화 느낌을 원하는 경우(여기서 주인공은 사진 그대로입니다)",
+      "사람이나 물건이 많아 초점이 흩어진 사진",
+      "강렬한 색 충돌이나 북적이고 활발한 분위기를 원하는 디자인"
+    ]
+  },
+  "ar": {
+    "name": "نافذة المشاعر",
+    "tagline": "يجعل عنصراً حقيقياً من صورتك يعبر نافذة هندسية ضيقة فاتحة، في ملصق تجاري راقٍ بسيط.",
+    "look": "في التصميم مساحة لونية هندسية واحدة ضيقة طويلة هادئة قليلة التشبع، لا اتجاه ثابت لها: أفقية أو عمودية أو مائلة، يحددها ثقل العنصر واتجاهه. يبقى العنصر فوتوغرافياً أو واقعياً بدقة، فيدخل المساحة ويتجاوز جزء منه حدها أو يمتد خارجها أو يعبرها، كأنه نما هناك طبيعياً. الأرضية بيضاء أو رمادية فاتحة أو دافئة فاتحة جداً، وقد تحمل زخارف ثقافية باهتة أو خطوط تضاريس أو خطوط ماء أو آثار ضوء، مع بؤرة واحدة وفراغ واسع. يُؤخذ لون المساحة من الصورة ويُليَّن إلى الأزرق الضبابي أو الفيروزي الباهت أو البيج أو الوردي الفاتح أو الرمادي الدافئ أو الذهبي الباهت. النص عنوان قصير مع قليل من العنوان الفرعي أو المكان أو كلمات الحالة، أفقياً أو عمودياً، بحروف صغيرة خفيفة متباعدة.",
+    "traits": [
+      "عنصر فوتوغرافي",
+      "نافذة ضيقة",
+      "اتجاه متكيّف",
+      "تحرير تجاري",
+      "فراغ شرقي"
+    ],
+    "good": [
+      "شيء واحد له ملمس: غصن زهرة، مزهرية خزفية، زجاجة عطر، فنجان شاي",
+      "أشخاص أو حيوانات في وضعية منبسطة: راقصة تتمدد، بلشون أبيض، حصان",
+      "صور تريدها صورة رئيسية لعلامة تجارية أو ملصقاً موسمياً أو إعلاناً عقارياً أو صفحة مجلة تصميم"
+    ],
+    "poor": [
+      "طلب مظهر مرسوم باليد أو توضيحي أو كرتوني، فالعنصر هنا يبقى حقيقياً",
+      "صور مزدحمة بالأشخاص أو الأشياء بلا بؤرة واحدة",
+      "تصاميم تريد ألواناً صارخة متصادمة أو جوّاً صاخباً مرحاً"
+    ]
+  }
+}
